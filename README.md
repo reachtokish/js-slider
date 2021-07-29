@@ -8,4 +8,4 @@ Pure vaniall js slider
 
 ### Demo
 
-https://reachtokish.github.io/js-slider/index.html
+https://reachtokish.github.io/js-slider/
